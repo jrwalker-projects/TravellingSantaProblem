@@ -6,5 +6,6 @@
 public/
 
 # Spreadsheet
-.xlsx
+*.xlsx
+
 .Rproj.user
